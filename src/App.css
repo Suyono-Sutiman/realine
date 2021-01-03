@@ -7,13 +7,6 @@
 .navbar-light .navbar-nav .nav-link {
     color: #fff;
 }
-.btn-warning {
-    background-color: #ffba00;
-    border: 3px solid #fff;
-    color: #fff;
-    padding-right: min(max(1rem, 4vw),5rem);
-    padding-left: min(max(1rem, 4vw),5rem);
-}
 .bts::before  {
     display: block;
     content: " ";
