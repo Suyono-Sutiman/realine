@@ -1,38 +1,54 @@
-.App {
-  text-align: center;
+.navbar-light .navbar-brand {
+    color: #fff;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.navbar-light .navbar-toggler-icon {
+    background-image: url(../src/Gambar/menu.svg);
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.btn-warning {
+    background-color: #ffba00;
+    border: 3px solid #fff;
+    color: #fff;
+    padding-right: min(max(1rem, 4vw),5rem);
+    padding-left: min(max(1rem, 4vw),5rem);
 }
-
-.App-link {
-  color: #61dafb;
+.bts::before  {
+    display: block;
+    content: " ";
+    margin-top: -56px;
+    height: 56px;
+    visibility: hidden;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.hero {
+    background-image: url(../src/Gambar/modern.svg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-color: #242424;
+    height: calc(100vh - 56px);
+    background-size: auto;
+    display: flex;
+    align-items: center;
+}
+.abu {
+    background: #242424;
+}
+.biru {
+    background: #ffba00;
+}
+.dpt {
+    font-size: min(max(56px, 10vw),96px);
+    font-weight: 500;
+}
+.tp {
+    background-color: #ffba00;
+    border: 3px solid white;
+    margin-bottom: -1rem;
+    position: relative;
+    z-index: 15;
+}
+.bw {
+    background: #ffba00;
+    padding-top: 2rem;
 }
