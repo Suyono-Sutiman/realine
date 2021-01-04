@@ -1,6 +1,11 @@
 import React from 'react'
-import { Col, Container, Jumbotron, Row } from 'react-bootstrap'
-import {MdSettingsInputComponent, MdThumbUp, MdFindInPage} from 'react-icons/md'
+import Row from 'react-bootstrap/Row'
+import Col from 'react-bootstrap/Col'
+import Container from 'react-bootstrap/Container'
+import Jumbotron from 'react-bootstrap/Jumbotron'
+import {MdSettingsInputComponent} from 'react-icons/md'
+import {MdThumbUp} from 'react-icons/md'
+import {MdFindInPage} from 'react-icons/md'
 
 function Devsm () {
     return (

@@ -1,7 +1,12 @@
 import React from 'react'
-import { Col, Container, Row } from 'react-bootstrap'
-import {FaInstagramSquare, FaFacebookSquare,FaTwitterSquare,FaWhatsappSquare,
-    FaCopyright} from 'react-icons/fa'
+import Row from 'react-bootstrap/Row'
+import Col from 'react-bootstrap/Col'
+import Container from 'react-bootstrap/Container'
+import {FaInstagramSquare} from 'react-icons/fa'
+import {FaFacebookSquare} from 'react-icons/fa'
+import {FaTwitterSquare} from 'react-icons/fa'
+import {FaWhatsappSquare,} from 'react-icons/fa'
+import {FaCopyright} from 'react-icons/fa'
 
 function Foot (){
     return (
