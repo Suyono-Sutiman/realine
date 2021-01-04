@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/realine/static/css/main.70cdce7e.chunk.css",
+    "main.js": "/realine/static/js/main.108a0d51.chunk.js",
+    "main.js.map": "/realine/static/js/main.108a0d51.chunk.js.map",
+    "runtime-main.js": "/realine/static/js/runtime-main.233fa89b.js",
+    "runtime-main.js.map": "/realine/static/js/runtime-main.233fa89b.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/realine/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.82b4b9d2.chunk.js": "/realine/static/js/2.82b4b9d2.chunk.js",
+    "static/js/2.82b4b9d2.chunk.js.map": "/realine/static/js/2.82b4b9d2.chunk.js.map",
+    "static/js/3.8a6a84e3.chunk.js": "/realine/static/js/3.8a6a84e3.chunk.js",
+    "static/js/3.8a6a84e3.chunk.js.map": "/realine/static/js/3.8a6a84e3.chunk.js.map",
+    "index.html": "/realine/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/realine/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.70cdce7e.chunk.css.map": "/realine/static/css/main.70cdce7e.chunk.css.map",
+    "static/js/2.82b4b9d2.chunk.js.LICENSE.txt": "/realine/static/js/2.82b4b9d2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/realine/static/media/modern.9360f03d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.233fa89b.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.82b4b9d2.chunk.js",
+    "static/css/main.70cdce7e.chunk.css",
+    "static/js/main.108a0d51.chunk.js"
+  ]
+}
