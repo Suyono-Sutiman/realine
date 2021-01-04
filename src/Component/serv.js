@@ -4,6 +4,7 @@ import Col from 'react-bootstrap/Col'
 import Row from 'react-bootstrap/Row'
 import Jumbotron from 'react-bootstrap/Jumbotron'
 import Button  from 'react-bootstrap/Button'
+import Mess from '../Component/for'
 
 function Serv () {
     return (
@@ -60,6 +61,7 @@ function Serv () {
                     <Button variant="warning" style={{border:'3px solid #fff'}} >LEARN HOW</Button>
                 </Col>
             </Row>
+            <Mess/>
         </Container>
         </Jumbotron>
     )
